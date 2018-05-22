@@ -1,0 +1,2 @@
+webpackJsonp([59],{1086:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("我是proBudget_detail")])},staticRenderFns:[]}},679:function(e,n,t){var r=t(247)(null,t(1086),null,null,null);e.exports=r.exports}});
+//# sourceMappingURL=59.9368ab2ee348a9eae67d.js.map
